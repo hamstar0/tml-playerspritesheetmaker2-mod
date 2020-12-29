@@ -1,0 +1,5 @@
+author = hamstar
+version = 1.1.0
+displayName = Player Sprite Sheet Maker
+buildIgnore = *.csproj, *.user, *.bat, obj\*, bin\*, .vs\*, .git\*
+languageVersion = 6
